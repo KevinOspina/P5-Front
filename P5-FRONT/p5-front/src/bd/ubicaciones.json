@@ -1,0 +1,20 @@
+{
+    "ubicaciones":[
+        {
+            "ubicacionID":"PC001",
+            "coordenadas":
+            {
+                "latitud":"6.223956",
+                "longitud":"-75.528557"
+            }
+        },
+        {
+            "ubicacionID":"PC003",
+            "coordenadas":
+            {
+                "latitud":"6.223956",
+                "longitud":"-75.528557"
+            }
+        }
+    ]
+}

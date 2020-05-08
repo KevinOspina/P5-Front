@@ -1,0 +1,31 @@
+{
+    "asignarEvCuad":[
+        {
+            "id": "AS001",
+            "cuadrilla":"C001",
+            "ubicacion":"PC002",
+            "evento":"A001",
+            "tipo_evento":"Mantenimiento"
+
+        },
+        {
+            "id": "AS002",
+            "cuadrilla":"C003",
+            "ubicacion":"PC001",
+            "evento":"A003",
+            "tipo_evento":"Reparación"
+
+        },
+        {
+            "id": "AS003",
+            "cuadrilla":"C001",
+            "ubicacion":"PC003",
+            "evento":"A002",
+            "tipo_evento":"Incidente"
+
+        }
+
+
+
+    ]
+}

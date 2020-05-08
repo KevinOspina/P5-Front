@@ -1,0 +1,26 @@
+{
+    "tareas":[
+        {
+            "tipo": "Mantenimiento",
+            "id": "A001",
+            "descripción":"Encargados de sector 1",
+            "estado":""
+
+        },
+        {
+            "tipo": "Incidente",
+            "id": "A002",
+            "descripción":"Encargados de sector 2",
+            "estado":""
+        },
+        {
+            "tipo": "Reparación",
+            "id": "A003",
+            "descripción":"Encargados de sector 3",
+            "estado":""
+        }
+
+
+
+    ]
+}

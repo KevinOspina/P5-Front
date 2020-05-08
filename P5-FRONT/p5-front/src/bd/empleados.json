@@ -1,0 +1,26 @@
+{
+    "empleados":[
+        {
+            "nombre": "Roberto Carlos Montes",
+            "id": "4234987234",
+            "descripción":"Encargados de sector 1",
+            "id_cuadrilla":"C001"
+
+        },
+        {
+            "nombre": "Maria de los Angeles Calle",
+            "id": "1092731924",
+            "descripción":"Encargados de sector 2",
+            "id_cuadrilla":"C001"
+        },
+        {
+            "nombre": "Alberto Dominguez Perez",
+            "id": "4201471412",
+            "descripción":"Encargados de sector 3",
+            "id_cuadrilla":"C001"
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container-contact100 {
+  font-size: 18px;
+  width: 100%;
+  min-height: 50vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
+}
+
+
+.App-titulo{
+  color: black;
+  margin-top: 10%;
+  font: small-caps normal 400 16px/27px Verdana;
+  font-weight: bold;
+  font-size: 200%;
+}
+
+.Input-Style,.Input-Style:focus , .Input-Style:hover{
+  border-color: #787511;
+  border: 0.5px solid ;
+}
+
+
+.Btn-aceptar{
+  height: 40px;
+  width: 210px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border-color: #787511;
+  margin-top: 20px;
+}
+

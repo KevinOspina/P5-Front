@@ -1,0 +1,25 @@
+{
+    "cuadrillas":[
+        {
+            "nombre": "Sector 1",
+            "id": "C001",
+            "descripción":"Encargados de sector 1"
+
+        },
+        {
+            "nombre": "Sector 2",
+            "id": "C002",
+            "descripción":"Encargados de sector 2"
+
+        },
+        {
+            "nombre": "Sector 3",
+            "id": "C003",
+            "descripción":"Encargados de sector 3"
+
+        }
+
+
+
+    ]
+}
